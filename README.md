@@ -1,4 +1,4 @@
-# Unveiling Trends in Renewable Energy
+# Unveiling Trends in Renewable Energy (Python)
 
 **Background:** The race to net-zero emissions is on! As the world battles climate change and rising energy demands, renewable energy is taking center stage. Solar, wind, and hydro are revolutionizing the way we power our lives. Some countries are leading the charge, while others are falling behind. But which nations are making the biggest impact? What’s driving their success? And what lessons can we learn to accelerate the green energy transition?
 
