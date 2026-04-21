@@ -13,6 +13,4 @@ As a data analyst at NextEra Energy, one of the world’s leading renewable ener
 
 Your analysis will uncover trends, spotlight key drivers, and guide smarter global energy decisions. Policymakers, investors, and sustainability leaders are hungry for clarity. Your insights could influence real-world energy strategies and help accelerate the path to a more sustainable future. Your model won’t just generate predictions — it will uncover underlying drivers of renewable energy production and reveal where the biggest gains can be made!
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-These projects were part of a competition on DataCamp. One focused on data analytics & the other on data science.
+This project was done in July, 2025. These projects were part of a competition on DataCamp. One focused on data analytics & the other on data science.
